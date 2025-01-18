@@ -43,6 +43,7 @@ This Python app utilizes the `turtle` module to create a dot painting artwork in
 
 - Change the `colors` list to include your own RGB color combinations.
 - Adjust the dot size and spacing by modifying the `fas.dot()` and `fas.fd()` parameters.
+- You need to install colorgram packge if you want to extract the color form images
 
 
 
